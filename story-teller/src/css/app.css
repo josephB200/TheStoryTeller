@@ -1,0 +1,31 @@
+body{
+  background-color: #0F0E17;
+  font-family: 'Bree', sans-serif;
+  color: white;
+}
+
+#title1 {
+
+  font-family: 'Shantell Sans', cursive;
+  
+
+
+}
+
+.thumbnail {
+  width: 100px; 
+  height: auto;
+  
+}
+
+
+
+.category {
+  
+  font-family: 'Libre Baskerville', serif;
+}
+
+footer {
+
+  margin-top: 6rem;
+}
